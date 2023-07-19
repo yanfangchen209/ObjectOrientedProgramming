@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Spider
+comment0.text=Program\ header\:\ Spider.java\r\n\ \r\n\ Author\:\ Adam\ Nixon\ &\ Yanfang\ Chen\r\n\ Class\:\ CS-2163-EC02S\ JAVA\ Final\ Project\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ The\ Fly\ class\ set\ the\ flies\ movement.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ eatFly()
+comment3.params=
+comment3.target=int\ getSpiderHealth()
+comment4.params=
+comment4.target=void\ keyMove()
+comment5.params=
+comment5.target=void\ addOneSting()
+comment6.params=
+comment6.target=void\ calculateHealth()
+comment7.params=
+comment7.target=void\ checkHealth()
+numComments=8

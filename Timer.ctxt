@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Timer
+comment0.text=Program\ header\:\ Timer.java\r\n\ \r\n\ Author\:\ Adam\ Nixon\ &\ Yanfang\ Chen\r\n\ Class\:\ CS-2163-EC02S\ JAVA\ Final\ Project\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ The\ Timer\ class\ creates\ the\ image\ for\ timer,\ having\ the\ time\ count\ down\ effector\ and\ show\ time\ method.\ \r\n\ and\ also\ show\ score\ method.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ countTime()
+comment3.params=
+comment3.target=void\ showTime()
+comment4.params=prefix\ time
+comment4.target=void\ makeTimerImage(java.lang.String,\ int)
+numComments=5

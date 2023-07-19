@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Wasp
+comment0.text=Program\ header\:\ Wasp.java\r\n\ \r\n\ Author\:\ Adam\ Nixon\ &\ Yanfang\ Chen\r\n\ Class\:\ CS-2163-EC02S\ JAVA\ Final\ Project\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ The\ Wasp\ class\ set\ the\ wasps'\ movement,\ and\ has\ the\ effector\ of\ stingSpider()\ which\ decrease\ the\ score\ by\ 3\ when\ \r\n\ .\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ stingSpider()
+numComments=3

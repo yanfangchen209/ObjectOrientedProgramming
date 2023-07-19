@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ScoreCounter
+comment0.text=Program\ header\:\ ScoreCounter.java\r\n\ \r\n\ Author\:\ Adam\ Nixon\ &\ Yanfang\ Chen\r\n\ Class\:\ CS-2163-EC02S\ JAVA\ Final\ Project\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ The\ ScoreCounter\ class\ creates\ the\ image\ for\ score\ counter,\ having\ the\ calculating\ score\ effector\ and\ getter\ for\ score\ \r\n\ and\ also\ show\ score\ method.\r\n
+comment1.params=points
+comment1.target=void\ addScore(int)
+comment2.params=
+comment2.target=void\ showScore()
+comment3.params=
+comment3.target=int\ getScore()
+comment4.params=firstLine\ secondLine\ fliesAte\ score
+comment4.target=void\ makeScoreCounterImage(java.lang.String,\ java.lang.String,\ int,\ int)
+numComments=5

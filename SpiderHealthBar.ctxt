@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SpiderHealthBar
+comment0.text=Program\ header\:\ SpiderHealthBar.java\r\n\ \r\n\ Author\:\ Adam\ Nixon\ &\ Yanfang\ Chen\r\n\ Class\:\ CS-2163-EC02S\ JAVA\ Final\ Project\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ The\ SpiderHealthBar\ class\ make\ the\ image\ of\ health\ bar\ and\ has\ a\ show\ health\ bar\ effector.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ showHealthBar()
+comment3.params=spiderHealth
+comment3.target=void\ makeImage(int)
+numComments=4
